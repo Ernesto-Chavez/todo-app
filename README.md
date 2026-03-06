@@ -3,7 +3,7 @@
 Una aplicación web full-stack moderna para gestionar tareas con autenticación, sincronización en tiempo real y modo oscuro.
 
 ## 🚀 Demo
-> **URL de despliegue:** `https://tu-proyecto.vercel.app` *(reemplaza con tu URL de Vercel después del despliegue)*
+> **URL de despliegue:** https://todo-app-nine-gilt-21.vercel.app/login
 
 ---
 
